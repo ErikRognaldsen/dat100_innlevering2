@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f05ae312-6645-4aa9-aee4-9038cdbd2100" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/no/hvl/dat100/matriser/Matriser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/no/hvl/dat100/matriser/Matriser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/no/hvl/dat100/tabeller/Tabeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/no/hvl/dat100/tabeller/Tabeller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/no/hvl/dat100/matriser/MatriserEnhetsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/no/hvl/dat100/matriser/MatriserEnhetsTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +29,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.MatriserEnhetsTests.executor": "Run",
+    "JUnit.MatriserEnhetsTests.testSkaler.executor": "Run",
+    "JUnit.MatriserEnhetsTests.testSkrivUt.executor": "Run",
+    "JUnit.MatriserEnhetsTests.testerLik.executor": "Run",
+    "JUnit.MatriserEnhetsTests.testtilStreng.executor": "Run",
+    "JUnit.TabellerEnhetsTests.erSortert.executor": "Run",
     "JUnit.TabellerEnhetsTests.executor": "Run",
     "JUnit.TabellerEnhetsTests.testSkrivUt.executor": "Run",
+    "JUnit.TabellerEnhetsTests.testSummer.executor": "Run",
+    "JUnit.TabellerEnhetsTests.testfinnesTall.executor": "Run",
+    "JUnit.TabellerEnhetsTests.testposisjonTall.executor": "Run",
+    "JUnit.TabellerEnhetsTests.testreverser.executor": "Run",
+    "JUnit.TabellerEnhetsTests.testsettSammen.executor": "Run",
+    "JUnit.TabellerEnhetsTests.testtilStreng.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -50,7 +62,70 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.TabellerEnhetsTests.testtilStreng">
+  <component name="RunManager" selected="JUnit.TabellerEnhetsTests">
+    <configuration name="MatriserEnhetsTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oblig2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat100.matriser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat100.matriser" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat100.matriser.MatriserEnhetsTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatriserEnhetsTests.testSkaler" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oblig2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat100.matriser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat100.matriser" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat100.matriser.MatriserEnhetsTests" />
+      <option name="METHOD_NAME" value="testSkaler" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatriserEnhetsTests.testerLik" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oblig2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat100.matriser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat100.matriser" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat100.matriser.MatriserEnhetsTests" />
+      <option name="METHOD_NAME" value="testerLik" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatriserEnhetsTests.testtilStreng" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oblig2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat100.matriser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat100.matriser" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat100.matriser.MatriserEnhetsTests" />
+      <option name="METHOD_NAME" value="testtilStreng" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TabellerEnhetsTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Oblig2" />
       <extension name="coverage">
@@ -66,43 +141,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TabellerEnhetsTests.testSkrivUt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Oblig2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="no.hvl.dat100.tabeller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="no.hvl.dat100.tabeller" />
-      <option name="MAIN_CLASS_NAME" value="no.hvl.dat100.tabeller.TabellerEnhetsTests" />
-      <option name="METHOD_NAME" value="testSkrivUt" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TabellerEnhetsTests.testtilStreng" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Oblig2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="no.hvl.dat100.tabeller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="no.hvl.dat100.tabeller" />
-      <option name="MAIN_CLASS_NAME" value="no.hvl.dat100.tabeller.TabellerEnhetsTests" />
-      <option name="METHOD_NAME" value="testtilStreng" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TabellerEnhetsTests.testtilStreng" />
-        <item itemvalue="JUnit.TabellerEnhetsTests.testSkrivUt" />
         <item itemvalue="JUnit.TabellerEnhetsTests" />
+        <item itemvalue="JUnit.MatriserEnhetsTests" />
+        <item itemvalue="JUnit.MatriserEnhetsTests.testerLik" />
+        <item itemvalue="JUnit.MatriserEnhetsTests.testSkaler" />
+        <item itemvalue="JUnit.MatriserEnhetsTests.testtilStreng" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +166,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758709362303</updated>
-      <workItem from="1758709363891" duration="1626000" />
+      <workItem from="1758709363891" duration="1722000" />
+      <workItem from="1758713043691" duration="5137000" />
     </task>
     <servers />
   </component>
