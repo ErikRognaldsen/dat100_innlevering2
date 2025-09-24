@@ -1,7 +1,7 @@
 package no.hvl.dat100.matriser;
 
 public class Matriser {
-
+// GAYGAYGAY
 	// a)
 	public static void skrivUt(int[][] matrise) {
 		
