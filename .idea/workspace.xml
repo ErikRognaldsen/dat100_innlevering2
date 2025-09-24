@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f05ae312-6645-4aa9-aee4-9038cdbd2100" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/no/hvl/dat100/matriser/Matriser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/no/hvl/dat100/matriser/Matriser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/no/hvl/dat100/tabeller/Tabeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/no/hvl/dat100/tabeller/Tabeller.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +18,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="338r68e6lfilGvPkWAAOD43h2di" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,6 +29,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.TabellerEnhetsTests.executor": "Run",
+    "JUnit.TabellerEnhetsTests.testSkrivUt.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -33,11 +38,74 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.TabellerEnhetsTests.testtilStreng">
+    <configuration name="TabellerEnhetsTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oblig2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat100.tabeller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat100.tabeller" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat100.tabeller.TabellerEnhetsTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TabellerEnhetsTests.testSkrivUt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oblig2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat100.tabeller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat100.tabeller" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat100.tabeller.TabellerEnhetsTests" />
+      <option name="METHOD_NAME" value="testSkrivUt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TabellerEnhetsTests.testtilStreng" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oblig2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat100.tabeller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat100.tabeller" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat100.tabeller.TabellerEnhetsTests" />
+      <option name="METHOD_NAME" value="testtilStreng" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TabellerEnhetsTests.testtilStreng" />
+        <item itemvalue="JUnit.TabellerEnhetsTests.testSkrivUt" />
+        <item itemvalue="JUnit.TabellerEnhetsTests" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -53,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758709362303</updated>
-      <workItem from="1758709363891" duration="159000" />
+      <workItem from="1758709363891" duration="1626000" />
     </task>
     <servers />
   </component>

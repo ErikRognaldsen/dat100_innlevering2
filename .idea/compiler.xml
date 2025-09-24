@@ -7,8 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Oblig2" />
-        <module name="dat100-javainnlevering2" />
+        <module name="Oblig2 (1)" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dat100-javainnlevering2" target="23" />
+    </bytecodeTargetLevel>
   </component>
 </project>
